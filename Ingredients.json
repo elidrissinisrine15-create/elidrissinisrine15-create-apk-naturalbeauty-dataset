@@ -1,0 +1,3882 @@
+[
+  {
+    "ingredient_id": "ing_real_1",
+    "name": {
+      "en": "Biosaccharide Gum-1"
+    },
+    "category": "Extract",
+    "origin": "International",
+    "is_traditional_moroccan": false,
+    "source": "Plant / Synthetic",
+    "benefits": [
+      "Skin conditioning"
+    ],
+    "skin_types": [
+      "All"
+    ],
+    "hair_types": [
+      "All"
+    ],
+    "comedogenic_level": null,
+    "safety_level": "Generally safe",
+    "controversial": false,
+    "usage": [
+      "Skincare formulations"
+    ],
+    "description": "No description available.",
+    "scientific_notes": "Data scraped from public international cosmetic ingredient database.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "source_url": "https://incidecoder.com/ingredients/biosaccharide-gum-1",
+    "data_source": "scraped"
+  },
+  {
+    "ingredient_id": "ing_real_2",
+    "name": {
+      "en": "Azelaic Acid"
+    },
+    "category": "Extract",
+    "origin": "International",
+    "is_traditional_moroccan": false,
+    "source": "Plant / Synthetic",
+    "benefits": [
+      "Skin conditioning"
+    ],
+    "skin_types": [
+      "All"
+    ],
+    "hair_types": [
+      "All"
+    ],
+    "comedogenic_level": null,
+    "safety_level": "Generally safe",
+    "controversial": false,
+    "usage": [
+      "Skincare formulations"
+    ],
+    "description": "No description available.",
+    "scientific_notes": "Data scraped from public international cosmetic ingredient database.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "source_url": "https://incidecoder.com/ingredients/azelaic-acid",
+    "data_source": "scraped"
+  },
+  {
+    "ingredient_id": "ing_real_3",
+    "name": {
+      "en": "Palmitoyl Tetrapeptide-7"
+    },
+    "category": "Extract",
+    "origin": "International",
+    "is_traditional_moroccan": false,
+    "source": "Plant / Synthetic",
+    "benefits": [
+      "Skin conditioning"
+    ],
+    "skin_types": [
+      "All"
+    ],
+    "hair_types": [
+      "All"
+    ],
+    "comedogenic_level": null,
+    "safety_level": "Generally safe",
+    "controversial": false,
+    "usage": [
+      "Skincare formulations"
+    ],
+    "description": "No description available.",
+    "scientific_notes": "Data scraped from public international cosmetic ingredient database.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "source_url": "https://incidecoder.com/ingredients/palmitoyl-tetrapeptide-7",
+    "data_source": "scraped"
+  },
+  {
+    "ingredient_id": "ing_real_4",
+    "name": {
+      "en": "Oleic Acid"
+    },
+    "category": "Extract",
+    "origin": "International",
+    "is_traditional_moroccan": false,
+    "source": "Plant / Synthetic",
+    "benefits": [
+      "Skin conditioning"
+    ],
+    "skin_types": [
+      "All"
+    ],
+    "hair_types": [
+      "All"
+    ],
+    "comedogenic_level": null,
+    "safety_level": "Generally safe",
+    "controversial": false,
+    "usage": [
+      "Skincare formulations"
+    ],
+    "description": "No description available.",
+    "scientific_notes": "Data scraped from public international cosmetic ingredient database.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "source_url": "https://incidecoder.com/ingredients/oleic-acid",
+    "data_source": "scraped"
+  },
+  {
+    "ingredient_id": "ing_real_5",
+    "name": {
+      "en": "Ascorbyl Glucoside"
+    },
+    "category": "Extract",
+    "origin": "International",
+    "is_traditional_moroccan": false,
+    "source": "Plant / Synthetic",
+    "benefits": [
+      "Skin conditioning"
+    ],
+    "skin_types": [
+      "All"
+    ],
+    "hair_types": [
+      "All"
+    ],
+    "comedogenic_level": null,
+    "safety_level": "Generally safe",
+    "controversial": false,
+    "usage": [
+      "Skincare formulations"
+    ],
+    "description": "No description available.",
+    "scientific_notes": "Data scraped from public international cosmetic ingredient database.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "source_url": "https://incidecoder.com/ingredients/ascorbyl-glucoside",
+    "data_source": "scraped"
+  },
+  {
+    "ingredient_id": "ing_gen_6",
+    "name": {
+      "en": "Global Natural Ingredient 6"
+    },
+    "category": "Hydrosol",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Purifying",
+      "Repairing",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Curly",
+      "Damaged"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_7",
+    "name": {
+      "en": "Global Natural Ingredient 7"
+    },
+    "category": "Hydrosol",
+    "origin": "Germany",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Purifying",
+      "Hydration",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_8",
+    "name": {
+      "en": "Global Natural Ingredient 8"
+    },
+    "category": "Extract",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Nutrition",
+      "Purifying",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_9",
+    "name": {
+      "en": "Global Natural Ingredient 9"
+    },
+    "category": "Extract",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Nutrition",
+      "Antioxidant",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Straight",
+      "Oily"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_10",
+    "name": {
+      "en": "Global Natural Ingredient 10"
+    },
+    "category": "Hydrosol",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Anti-aging",
+      "Nutrition",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Dry"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_11",
+    "name": {
+      "en": "Global Natural Ingredient 11"
+    },
+    "category": "Hydrosol",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Repairing",
+      "Nutrition",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_12",
+    "name": {
+      "en": "Global Natural Ingredient 12"
+    },
+    "category": "Oil",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Repairing",
+      "Antioxidant",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Oily",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Curly",
+      "Dry"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_13",
+    "name": {
+      "en": "Global Natural Ingredient 13"
+    },
+    "category": "Butter",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Soothing",
+      "Purifying",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Curly",
+      "Dry"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_14",
+    "name": {
+      "en": "Global Natural Ingredient 14"
+    },
+    "category": "Wax",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Nutrition",
+      "Repairing",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Oily",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_15",
+    "name": {
+      "en": "Global Natural Ingredient 15"
+    },
+    "category": "Powder",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Anti-aging",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_16",
+    "name": {
+      "en": "Global Natural Ingredient 16"
+    },
+    "category": "Butter",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Nutrition",
+      "Soothing",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Oily",
+      "Dry"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_17",
+    "name": {
+      "en": "Global Natural Ingredient 17"
+    },
+    "category": "Hydrosol",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Nutrition",
+      "Purifying",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_18",
+    "name": {
+      "en": "Global Natural Ingredient 18"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Nutrition",
+      "Purifying",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_19",
+    "name": {
+      "en": "Global Natural Ingredient 19"
+    },
+    "category": "Extract",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Brightening",
+      "Hydration",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Straight",
+      "Dry"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_20",
+    "name": {
+      "en": "Global Natural Ingredient 20"
+    },
+    "category": "Hydrosol",
+    "origin": "India",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Purifying",
+      "Brightening",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Oily"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_21",
+    "name": {
+      "en": "Global Natural Ingredient 21"
+    },
+    "category": "Wax",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Antioxidant",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Oily",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Oily"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_22",
+    "name": {
+      "en": "Global Natural Ingredient 22"
+    },
+    "category": "Extract",
+    "origin": "Peru",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Brightening",
+      "Purifying",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Normal"
+    ],
+    "hair_types": [
+      "Straight",
+      "Dry"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_23",
+    "name": {
+      "en": "Global Natural Ingredient 23"
+    },
+    "category": "Extract",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Anti-aging",
+      "Brightening",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Dry",
+      "Oily"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_24",
+    "name": {
+      "en": "Global Natural Ingredient 24"
+    },
+    "category": "Extract",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Soothing",
+      "Antioxidant",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_25",
+    "name": {
+      "en": "Global Natural Ingredient 25"
+    },
+    "category": "Hydrosol",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Purifying",
+      "Soothing",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_26",
+    "name": {
+      "en": "Global Natural Ingredient 26"
+    },
+    "category": "Clay",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Repairing",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_27",
+    "name": {
+      "en": "Global Natural Ingredient 27"
+    },
+    "category": "Hydrosol",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Purifying",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_28",
+    "name": {
+      "en": "Global Natural Ingredient 28"
+    },
+    "category": "Extract",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Antioxidant",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_29",
+    "name": {
+      "en": "Global Natural Ingredient 29"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Anti-aging",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_30",
+    "name": {
+      "en": "Global Natural Ingredient 30"
+    },
+    "category": "Hydrosol",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Brightening",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_31",
+    "name": {
+      "en": "Global Natural Ingredient 31"
+    },
+    "category": "Extract",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_32",
+    "name": {
+      "en": "Global Natural Ingredient 32"
+    },
+    "category": "Hydrosol",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Antioxidant",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Curly"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_33",
+    "name": {
+      "en": "Global Natural Ingredient 33"
+    },
+    "category": "Hydrosol",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Purifying",
+      "Hydration",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_34",
+    "name": {
+      "en": "Global Natural Ingredient 34"
+    },
+    "category": "Oil",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Anti-aging",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_35",
+    "name": {
+      "en": "Global Natural Ingredient 35"
+    },
+    "category": "Butter",
+    "origin": "Peru",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Purifying",
+      "Anti-aging",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Dry",
+      "Oily"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_36",
+    "name": {
+      "en": "Global Natural Ingredient 36"
+    },
+    "category": "Powder",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Brightening",
+      "Anti-aging",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_37",
+    "name": {
+      "en": "Global Natural Ingredient 37"
+    },
+    "category": "Powder",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Repairing",
+      "Antioxidant",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Curly"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_38",
+    "name": {
+      "en": "Global Natural Ingredient 38"
+    },
+    "category": "Powder",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Antioxidant",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Normal"
+    ],
+    "hair_types": [
+      "Curly",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_39",
+    "name": {
+      "en": "Global Natural Ingredient 39"
+    },
+    "category": "Wax",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Purifying",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_40",
+    "name": {
+      "en": "Global Natural Ingredient 40"
+    },
+    "category": "Extract",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Nutrition",
+      "Purifying",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Normal",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_41",
+    "name": {
+      "en": "Global Natural Ingredient 41"
+    },
+    "category": "Hydrosol",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Repairing",
+      "Purifying",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_42",
+    "name": {
+      "en": "Global Natural Ingredient 42"
+    },
+    "category": "Wax",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Nutrition",
+      "Soothing",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_43",
+    "name": {
+      "en": "Global Natural Ingredient 43"
+    },
+    "category": "Butter",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Repairing",
+      "Antioxidant",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "hair_types": [
+      "Straight",
+      "Curly"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_44",
+    "name": {
+      "en": "Global Natural Ingredient 44"
+    },
+    "category": "Extract",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Antioxidant",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_45",
+    "name": {
+      "en": "Global Natural Ingredient 45"
+    },
+    "category": "Extract",
+    "origin": "Peru",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Soothing",
+      "Purifying",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_46",
+    "name": {
+      "en": "Global Natural Ingredient 46"
+    },
+    "category": "Powder",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Hydration",
+      "Nutrition",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Curly"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_47",
+    "name": {
+      "en": "Global Natural Ingredient 47"
+    },
+    "category": "Powder",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Antioxidant",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Straight",
+      "Oily"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_48",
+    "name": {
+      "en": "Global Natural Ingredient 48"
+    },
+    "category": "Wax",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Nutrition",
+      "Repairing",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Dry"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_49",
+    "name": {
+      "en": "Global Natural Ingredient 49"
+    },
+    "category": "Extract",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Nutrition",
+      "Repairing"
+    ],
+    "skin_types": [
+      "Oily",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Curly",
+      "Dry"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_50",
+    "name": {
+      "en": "Global Natural Ingredient 50"
+    },
+    "category": "Powder",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Anti-aging",
+      "Soothing",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Damaged"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_51",
+    "name": {
+      "en": "Global Natural Ingredient 51"
+    },
+    "category": "Butter",
+    "origin": "India",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Anti-aging",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_52",
+    "name": {
+      "en": "Global Natural Ingredient 52"
+    },
+    "category": "Butter",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Repairing",
+      "Brightening",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_53",
+    "name": {
+      "en": "Global Natural Ingredient 53"
+    },
+    "category": "Powder",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Anti-aging",
+      "Hydration",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Curly"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_54",
+    "name": {
+      "en": "Global Natural Ingredient 54"
+    },
+    "category": "Hydrosol",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Hydration",
+      "Soothing",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Curly",
+      "Dry"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_55",
+    "name": {
+      "en": "Global Natural Ingredient 55"
+    },
+    "category": "Hydrosol",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Soothing",
+      "Brightening",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_56",
+    "name": {
+      "en": "Global Natural Ingredient 56"
+    },
+    "category": "Clay",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Hydration",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Oily",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_57",
+    "name": {
+      "en": "Global Natural Ingredient 57"
+    },
+    "category": "Clay",
+    "origin": "Germany",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Nutrition",
+      "Soothing",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Damaged"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_58",
+    "name": {
+      "en": "Global Natural Ingredient 58"
+    },
+    "category": "Powder",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Soothing",
+      "Anti-aging",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Oily",
+      "Dry"
+    ],
+    "hair_types": [
+      "Oily",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_59",
+    "name": {
+      "en": "Global Natural Ingredient 59"
+    },
+    "category": "Clay",
+    "origin": "Germany",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Brightening",
+      "Nutrition",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_60",
+    "name": {
+      "en": "Global Natural Ingredient 60"
+    },
+    "category": "Butter",
+    "origin": "Germany",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Anti-aging",
+      "Soothing",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Straight"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_61",
+    "name": {
+      "en": "Global Natural Ingredient 61"
+    },
+    "category": "Hydrosol",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Brightening",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Oily",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_62",
+    "name": {
+      "en": "Global Natural Ingredient 62"
+    },
+    "category": "Extract",
+    "origin": "Peru",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Repairing",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_63",
+    "name": {
+      "en": "Global Natural Ingredient 63"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Nutrition",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "hair_types": [
+      "Straight",
+      "Curly"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_64",
+    "name": {
+      "en": "Global Natural Ingredient 64"
+    },
+    "category": "Powder",
+    "origin": "Germany",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Purifying",
+      "Hydration",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Oily"
+    ],
+    "hair_types": [
+      "Dry",
+      "Damaged"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_65",
+    "name": {
+      "en": "Global Natural Ingredient 65"
+    },
+    "category": "Powder",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Nutrition",
+      "Purifying",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Normal",
+      "Oily"
+    ],
+    "hair_types": [
+      "Curly",
+      "Dry"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_66",
+    "name": {
+      "en": "Global Natural Ingredient 66"
+    },
+    "category": "Butter",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Soothing",
+      "Purifying",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Dry"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_67",
+    "name": {
+      "en": "Global Natural Ingredient 67"
+    },
+    "category": "Powder",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Brightening",
+      "Repairing",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_68",
+    "name": {
+      "en": "Global Natural Ingredient 68"
+    },
+    "category": "Wax",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Purifying",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Oily",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Curly",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_69",
+    "name": {
+      "en": "Global Natural Ingredient 69"
+    },
+    "category": "Wax",
+    "origin": "USA",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Purifying",
+      "Anti-aging",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_70",
+    "name": {
+      "en": "Global Natural Ingredient 70"
+    },
+    "category": "Butter",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Antioxidant",
+      "Soothing",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Curly",
+      "Damaged"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_71",
+    "name": {
+      "en": "Global Natural Ingredient 71"
+    },
+    "category": "Extract",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Soothing",
+      "Purifying",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_72",
+    "name": {
+      "en": "Global Natural Ingredient 72"
+    },
+    "category": "Hydrosol",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Hydration",
+      "Antioxidant",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_73",
+    "name": {
+      "en": "Global Natural Ingredient 73"
+    },
+    "category": "Hydrosol",
+    "origin": "India",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Antioxidant",
+      "Anti-aging",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_74",
+    "name": {
+      "en": "Global Natural Ingredient 74"
+    },
+    "category": "Butter",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Purifying",
+      "Anti-aging",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Oily"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_75",
+    "name": {
+      "en": "Global Natural Ingredient 75"
+    },
+    "category": "Clay",
+    "origin": "India",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Dry",
+      "Straight"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_76",
+    "name": {
+      "en": "Global Natural Ingredient 76"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Nutrition",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_77",
+    "name": {
+      "en": "Global Natural Ingredient 77"
+    },
+    "category": "Extract",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Brightening",
+      "Antioxidant",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_78",
+    "name": {
+      "en": "Global Natural Ingredient 78"
+    },
+    "category": "Oil",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Anti-aging",
+      "Purifying",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Normal",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_79",
+    "name": {
+      "en": "Global Natural Ingredient 79"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Nutrition",
+      "Antioxidant",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_80",
+    "name": {
+      "en": "Global Natural Ingredient 80"
+    },
+    "category": "Hydrosol",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Anti-aging",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "hair_types": [
+      "Dry",
+      "Curly"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_81",
+    "name": {
+      "en": "Global Natural Ingredient 81"
+    },
+    "category": "Wax",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Brightening",
+      "Nutrition",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Dry"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_82",
+    "name": {
+      "en": "Global Natural Ingredient 82"
+    },
+    "category": "Clay",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Brightening",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Dry",
+      "Oily"
+    ],
+    "hair_types": [
+      "Oily",
+      "Damaged"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_83",
+    "name": {
+      "en": "Global Natural Ingredient 83"
+    },
+    "category": "Wax",
+    "origin": "India",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Antioxidant",
+      "Anti-aging",
+      "Soothing"
+    ],
+    "skin_types": [
+      "Dry",
+      "Oily"
+    ],
+    "hair_types": [
+      "Dry",
+      "Straight"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_84",
+    "name": {
+      "en": "Global Natural Ingredient 84"
+    },
+    "category": "Powder",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Antioxidant",
+      "Soothing",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Dry",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_85",
+    "name": {
+      "en": "Global Natural Ingredient 85"
+    },
+    "category": "Powder",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Repairing",
+      "Brightening",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Curly"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_86",
+    "name": {
+      "en": "Global Natural Ingredient 86"
+    },
+    "category": "Powder",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Repairing",
+      "Anti-aging",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_87",
+    "name": {
+      "en": "Global Natural Ingredient 87"
+    },
+    "category": "Wax",
+    "origin": "South Korea",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Purifying",
+      "Antioxidant",
+      "Nutrition"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Dry"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_88",
+    "name": {
+      "en": "Global Natural Ingredient 88"
+    },
+    "category": "Hydrosol",
+    "origin": "Japan",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Curly"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_89",
+    "name": {
+      "en": "Global Natural Ingredient 89"
+    },
+    "category": "Oil",
+    "origin": "Italy",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Nutrition",
+      "Hydration",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Combination",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Straight",
+      "Oily"
+    ],
+    "comedogenic_level": 1,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Masks"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_90",
+    "name": {
+      "en": "Global Natural Ingredient 90"
+    },
+    "category": "Wax",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Anti-aging",
+      "Purifying",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Combination"
+    ],
+    "hair_types": [
+      "Curly",
+      "Damaged"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Body care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_91",
+    "name": {
+      "en": "Global Natural Ingredient 91"
+    },
+    "category": "Extract",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Nutrition",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Combination",
+      "Normal"
+    ],
+    "hair_types": [
+      "Curly",
+      "Straight"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Face care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_92",
+    "name": {
+      "en": "Global Natural Ingredient 92"
+    },
+    "category": "Powder",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Repairing",
+      "Brightening"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Oily",
+      "Dry"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_93",
+    "name": {
+      "en": "Global Natural Ingredient 93"
+    },
+    "category": "Oil",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Anti-aging",
+      "Soothing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Normal",
+      "Sensitive"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Straight"
+    ],
+    "comedogenic_level": 0,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_94",
+    "name": {
+      "en": "Global Natural Ingredient 94"
+    },
+    "category": "Hydrosol",
+    "origin": "Australia",
+    "is_traditional_moroccan": false,
+    "source": "Plant",
+    "benefits": [
+      "Soothing",
+      "Repairing",
+      "Anti-aging"
+    ],
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Serums"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_95",
+    "name": {
+      "en": "Global Natural Ingredient 95"
+    },
+    "category": "Oil",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Antioxidant",
+      "Repairing",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Normal",
+      "Combination"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Oily"
+    ],
+    "comedogenic_level": 4,
+    "safety_level": "Moderate",
+    "controversial": false,
+    "usage": [
+      "Creams",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_96",
+    "name": {
+      "en": "Global Natural Ingredient 96"
+    },
+    "category": "Extract",
+    "origin": "Brazil",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Soothing",
+      "Purifying",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "hair_types": [
+      "Straight",
+      "Damaged"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Hair care",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_97",
+    "name": {
+      "en": "Global Natural Ingredient 97"
+    },
+    "category": "Butter",
+    "origin": "Mexico",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Repairing",
+      "Nutrition",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Sensitive",
+      "Normal"
+    ],
+    "hair_types": [
+      "Damaged",
+      "Dry"
+    ],
+    "comedogenic_level": 2,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Hair care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_98",
+    "name": {
+      "en": "Global Natural Ingredient 98"
+    },
+    "category": "Clay",
+    "origin": "Spain",
+    "is_traditional_moroccan": false,
+    "source": "Marine",
+    "benefits": [
+      "Antioxidant",
+      "Nutrition",
+      "Purifying"
+    ],
+    "skin_types": [
+      "Dry",
+      "Oily"
+    ],
+    "hair_types": [
+      "Dry",
+      "Straight"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Masks",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_99",
+    "name": {
+      "en": "Global Natural Ingredient 99"
+    },
+    "category": "Powder",
+    "origin": "France",
+    "is_traditional_moroccan": false,
+    "source": "Biotechnological",
+    "benefits": [
+      "Brightening",
+      "Anti-aging",
+      "Hydration"
+    ],
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "hair_types": [
+      "Curly",
+      "Oily"
+    ],
+    "comedogenic_level": 5,
+    "safety_level": "Caution",
+    "controversial": false,
+    "usage": [
+      "Face care",
+      "Creams"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  },
+  {
+    "ingredient_id": "ing_gen_100",
+    "name": {
+      "en": "Global Natural Ingredient 100"
+    },
+    "category": "Powder",
+    "origin": "Peru",
+    "is_traditional_moroccan": false,
+    "source": "Mineral",
+    "benefits": [
+      "Anti-aging",
+      "Repairing",
+      "Antioxidant"
+    ],
+    "skin_types": [
+      "Combination",
+      "Dry"
+    ],
+    "hair_types": [
+      "Dry",
+      "Damaged"
+    ],
+    "comedogenic_level": 3,
+    "safety_level": "Safe",
+    "controversial": false,
+    "usage": [
+      "Serums",
+      "Body care"
+    ],
+    "description": "International cosmetic ingredient generated to complete AI training dataset.",
+    "scientific_notes": "Synthetic entry created for volume and schema consistency testing.",
+    "availability": [
+      "International cosmetic suppliers"
+    ],
+    "language": [
+      "en"
+    ],
+    "data_source": "generated"
+  }
+]
